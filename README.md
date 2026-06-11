@@ -33,3 +33,7 @@ For more detail on the process, please read [bLIP-0001](./blip-0001.md) and
 | [51](./blip-0051.md)     | LSPS1: Channel Requests         | Severin Bühler              | Active |
 | [52](./blip-0052.md)     | LSPS2: JIT Channel Negotiation  | ZmnSCPxj jxPCSnmZ           | Active |
 | [55](./blip-0055.md)     | LSPS5: Webhook Registration     | ZmnSCPxj jxPCSnmZ           | Active |
+| [56](./blip-0056.md)     | BOLT 12 Signed Offers          | YY <yong@lightning.engineering> | Draft  |
+| [57](./blip-0057.md)     | BOLT 12 HTTPS Invoice Request Endpoint | YY <yong@lightning.engineering> | Draft  |
+| [58](./blip-0058.md)     | BOLT 12 Manual Invoice Request Exchange | YY <yong@lightning.engineering> | Draft  |
+| [59](./blip-0059.md)     | BOLT 12 Nostr Invoice Request Endpoint | YY <yong@lightning.engineering> | Draft  |
